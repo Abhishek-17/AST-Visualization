@@ -1,0 +1,48 @@
+
+.ast-id{
+  stroke: #FF6565;
+}
+
+.ast-op{
+  stroke: #000262;
+}
+
+.ast-bool{
+  stroke: #FA4352;
+}
+
+.ast-number{
+  stroke: #55FF34;
+}
+
+.ast-prim-app{
+  stroke: #ABCDF1;
+}
+
+.ast-if-then-else{
+  stroke: #614253;
+}
+
+.ast-id-ast-bind{
+  stroke: #548734;
+}
+
+.ast-id-binds{
+  stroke: #967582;
+}
+
+.ast-assume{
+  stroke: #DD4782;
+}
+
+.env{
+	font-weight: bold;
+	fill: #001283;
+	font-size: 15px;
+}
+
+.eval{
+	font-weight: bold;
+	fill: brown;
+	font-size: 15px;
+}
